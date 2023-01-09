@@ -31,3 +31,11 @@ Try to be consistent with autowiring injection type.
 @PostConstruct
 @PreDestroy
 @Value
+
+### Day 3
+
+@Configuration
+@ComponentScan
+@PropertySource
+AnnotationConfigApplicationContext
+
